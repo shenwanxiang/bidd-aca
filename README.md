@@ -97,5 +97,4 @@ test_pred_pIC50 = clf.cv_predict(Xs_test)
 
 
 ## Citation
-SHEN W, Cui C, Su X, Zhang Z, Velez-Arce A, Wang J, et al. Activity Cliff-Informed Contrastive Learning
-for Molecular Property Prediction. ChemRxiv. 2024; doi:10.26434/chemrxiv-2023-5cz7s-v2.
+Cui, C., Su, X., Zhang, Z. et al. Activity-cliff awareness enables robust graph learning for molecular property prediction. Nat Commun (2026). https://doi.org/10.1038/s41467-026-75713-2
